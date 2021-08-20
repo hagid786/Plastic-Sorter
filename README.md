@@ -7,4 +7,7 @@ An award winning AI-Enabled Plastic Sorting Algorithm with an integrated incenti
 
 
 ## Requirements
+'''python
+pip install -r requirements.txt
+'''
 ## run using GPU
