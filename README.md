@@ -7,4 +7,9 @@ An award winning AI-Enabled Plastic Sorting Algorithm with an integrated incenti
 
 
 ## Requirements
-## run using GPU
+### run using GPU
+To run the module using GPU, CUDA needs to be downloaded and included as the computation plateform while downloading PyTorch from the requirements file.  
+1- Check if your NVIDIA GPU is CUDA compatible from https://en.wikipedia.org/wiki/CUDA#GPUs_supported  
+2- Downlaad and install the CUDA Toolkit from https://developer.nvidia.com/cuda-zone  
+3- Install PyTorch with GPU CUDA enabled computation platform using the following pip command  
+   pip3 install torch==1.9.0+cu102 torchvision==0.10.0+cu102 torchaudio===0.9.0 -f https://download.pytorch.org/whl/torch_stable.html  
