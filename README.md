@@ -1,4 +1,5 @@
 # Plastic-Sorter
-##Introduction
+## Introduction
 An AI-Enabled Plastic Sorting Algorithm 
-fuck nizar
+## Requirements
+## run using GPU
