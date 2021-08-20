@@ -1,2 +1,4 @@
 # Plastic-Sorter
-An AI-Enabled Plastic Sorting Algorithm
+==Introduction
+An AI-Enabled Plastic Sorting Algorithm 
+fuck nizar
